@@ -5,7 +5,7 @@ Source code for paper *A Cognitive Solver with Autonomously Knowledge Learning f
 - python >= 3.6
 
 - stanfordcorenlp
-- torch
+- torch == 1.8.1
 
  ## Usage
 Train and test model
