@@ -14,6 +14,22 @@ python main.py
 ```
 For running arguments, please refer to [config.py](config.py).
 
+The autonomouslly learned knowledge (as well as its strength) of CogSolver
+* Math23K
+```shell
+knowledge\math23k\math23k_know_ww.txt: learned word-word relation knowledge
+```
+```shell
+knowledge\math23k\math23k_know_wo.txt: learned word-operator relation knowledge
+```
+* MAWPS
+```shell
+knowledge\mawps\mawps_know_ww.txt: learned word-word relation knowledge
+```
+```shell
+knowledge\mawps\mawps_know_wo.txt: learned word-operator relation knowledge
+```
+
 ### Citation
 If you find this work useful, please cite our paper:
 ```
