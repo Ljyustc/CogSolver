@@ -1,5 +1,5 @@
- # A Cognitive Solver with Autonomously Knowledge Learning for Reasoning Mathematical Answers
-Source code for ICDM-2022 paper *A Cognitive Solver with Autonomously Knowledge Learning for Reasoning Mathematical Answers*.
+ # CogSolver & CogSolver+
+Source code for ICDM-2022 paper *A Cognitive Solver with Autonomously Knowledge Learning for Reasoning Mathematical Answers* and manuscipt *Enhancing Mathematical Reasoning through Autonomously Learning Knowledge*.
 
  ## Dependencies
 - python >= 3.6
